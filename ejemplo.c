@@ -2,7 +2,7 @@
  
 int main (){
     int mor;
-    printf("hola mi amor");
+    printf("hola mi ar");
     scanf("%d",&mor);
     return 0;
 }
